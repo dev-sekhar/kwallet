@@ -1,0 +1,55 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "apps/mobile"
+    },
+    {
+      "path": "apps/backend"
+    },
+    {
+      "path": "packages/core"
+    },
+    {
+      "path": "packages/ui"
+    },
+    {
+      "path": "packages/i18n"
+    },
+    {
+      "path": "packages/utils"
+    },
+    {
+      "path": "packages/database"
+    },
+    {
+      "path": "packages/scripts"
+    },
+    {
+      "path": "docs"
+    }
+  ],
+  "settings": {
+    "eslint.enable": true,
+    "editor.formatOnSave": true,
+    "files.exclude": {
+      "**/node_modules": true,
+      "**/__pycache__": true,
+      "**/.pytest_cache": true,
+      "**/.venv": true
+    }
+  },
+  "extensions": {
+    "recommendations": [
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "ms-python.python",
+      "ms-azuretools.vscode-docker",
+      "msjsdiag.debugger-for-chrome",
+      "eamodio.gitlens",
+      "mhutchie.git-graph"
+    ]
+  }
+}

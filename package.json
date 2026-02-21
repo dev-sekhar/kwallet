@@ -1,0 +1,10 @@
+{
+  "name": "kwallet",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "apps/mobile/MyMobileApp",
+    "apps/backend",
+    "packages/*"
+  ]
+}

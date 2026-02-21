@@ -1,0 +1,12 @@
+{
+  "name": "@kwallet/backend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "uvicorn main:app --reload",
+    "test": "pytest"
+  },
+  "devDependencies": {
+    "pytest": "^7.3.1"
+  }
+}

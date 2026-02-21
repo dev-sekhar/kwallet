@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+
+# Node and Yarn
+node_modules/
+**/node_modules/
+yarn-error.log
+yarn-debug.log
+.pnp.*
+.cache/
+
+# React Native
+android/
+ios/
+build/
+*.keystore
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache
+*.tox
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+
+# VSCode config
+.vscode/
+
+# Misc
+*.swp
+*.lock
+*.iml
+.idea/
+*.bak
+*.tmp
+dist/

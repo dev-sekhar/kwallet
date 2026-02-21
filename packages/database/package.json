@@ -1,0 +1,10 @@
+{
+  "name": "@kwallet/database",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
